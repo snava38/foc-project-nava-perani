@@ -3,6 +3,14 @@
 ## **Introduction**
 This project is part of the *Foundations of Computer Science* course in the **Master’s degree in Data Science**, under the supervision of **Professor Gianluca della Vedova**. The goal is to analyze taxi trips in **New York City** using data from the [NYC Trip Fare dataset](https://www.kaggle.com/datasets/diishasiing/revenue-for-cab-drivers). The analysis involves data cleaning, feature engineering, and extracting insights based on trip details, fare amounts, and passenger behaviors.
 
+## **Repository Structure**
+The repository is organized as follows:
+
+- **conf/**: Contains `conf.py`, a configuration file that sets up environment paths for this GitHub repository.
+- **data/**: Stores the dataset downloaded from the Kaggle link provided above, specifically containing `data.csv`.
+- **notebooks/**: Includes the Jupyter Notebook that contains the development and implementation of the project code.
+
+
 ## **Objectives**
 The analysis focuses on the following tasks:
 
