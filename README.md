@@ -48,8 +48,7 @@ Each trip chain is assigned a **chain ID** to facilitate further analysis.
 ## **Dataset**
 The dataset can be downloaded from: [NYC Trip Fare Dataset](https://www.kaggle.com/api/v1/datasets/download/diishasiing/revenue-for-cab-drivers/)
 
-## **Implementation**
-The project is implemented in **Python**, using:
-- **Pandas** for data manipulation
-- **NumPy** for numerical operations
-- **Matplotlib/Seaborn** for visualization
+
+## **Requirements**
+The required libraries are specified within the `requirements.txt` file. To install them, please run on your terminal the following command:
+    `pip install -r requirements.txt`
