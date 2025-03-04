@@ -42,3 +42,9 @@ The dataset can be downloaded from: [NYC Trip Fare Dataset](https://www.kaggle.c
 ## **Requirements**
 The required libraries are specified within the `requirements.txt` file. To install them, please run on your terminal the following command:
     `pip install -r requirements.txt`
+
+## **Authors**
+For any questions or feedback, feel free to contact the authors:
+
+- *Nava Sara* (mat. 870885), s.nava38@campus.unimib.it
+- *Perani Nicola* (mat. 864755), n.perani@campus.unimib.it
