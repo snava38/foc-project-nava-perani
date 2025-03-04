@@ -8,7 +8,7 @@ The repository is organized as follows:
 
 - **conf/**: Contains `conf.py`, a configuration file that sets up environment paths for this GitHub repository.
 - **data/**: Stores the dataset downloaded from the Kaggle link provided above, specifically containing `data.csv`.
-- **notebooks/**: Includes the Jupyter Notebook that contains the development and implementation of the project code.
+- **notebooks/**: Includes the Jupyter Notebook `foc-project-notebook.ipynb` that contains the development and implementation of the project code.
 
 
 ## **Objectives**
